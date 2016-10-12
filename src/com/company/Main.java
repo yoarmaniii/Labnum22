@@ -9,10 +9,18 @@ public class Main {
         System.out.println("Our classes include: ");
         System.out.println("Hard Skills: ");
         System.out.println( "=====================");
+        System.out.println();
         System.out.println("Java (Open)");
         System.out.println("JavaScript (Open)");
-        System.out.println("Web Development ");
+        System.out.println("Web Development (Full) ");
         System.out.println("Software Testing (Open)");
+        System.out.println("=======================");
+        System.out.println();
+        System.out.println("Soft Skills: ");
+        System.out.println("=======================");
+        System.out.println();
+        System.out.println("Interviewing (Open)");
+        System.out.println("Networking(full)");
 
     }
 }
